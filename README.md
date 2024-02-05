@@ -1,5 +1,5 @@
 Sistema Distribuído Java
 
-Demostração de Aplicação Web Java integrada middleware Apache Kafka 
+Demostração de aplicação web Java integrada com stream Apache Kafka 
 e disponibilizando acesso aos serviços com REST API uilizando Springboot.
 
